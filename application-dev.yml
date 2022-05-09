@@ -1,2 +1,4 @@
-server:
-  port: 8090
+mysql:
+  user: 8090
+person:
+  name: wyatt
